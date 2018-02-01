@@ -40,7 +40,8 @@ Considering all the security reasons described above, many ISPs feel it necessar
 ## Installazione di Samba
 
 L’installazione dei pacchetti necessari si può effettuare con il comando:
-sudo apt-get install samba
+
+  sudo apt-get install samba
 
 ### Attività preliminari
 A installazione terminata dovremo creare una cartella che andremo poi a condividere. “User” è il nome dell’utente sotto cui andremo a creare la nostra cartella che per semplicità è l’utente che avete creato quando avete installato il server Debian.
